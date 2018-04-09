@@ -8,9 +8,7 @@
   "license": "MIT",
   "scripts": {
     "deploy": "npm publish",
-
     "standard": "standard *.js --recursive",
-
     "test": "yarn standard && yarn test:model",
     "test:model": "mocha test/ --exit"
   },
