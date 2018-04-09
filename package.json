@@ -1,9 +1,14 @@
 {
-  "name": "bugfixes_account_logging",
+  "name": "bugfixes-account-logging",
   "version": "0.0.1",
   "description": "BugFixes Account Service Logging Model",
   "main": "index.js",
-  "repository": "git@github.com:BugFixes/account_logging_model.git.",
+  "repository": "git@github.com:BugFixes/account-logging-model.git",
   "author": "Keloran <keloran@bugfix.es>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bugfixes": "^1.5.0",
+    "request-promise": "^4.2.2",
+    "uuid": "^3.2.1"
+  }
 }
