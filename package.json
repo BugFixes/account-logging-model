@@ -1,0 +1,9 @@
+{
+  "name": "bugfixes_account_logging",
+  "version": "0.0.1",
+  "description": "BugFixes Account Service Logging Model",
+  "main": "index.js",
+  "repository": "git@github.com:BugFixes/account_logging_model.git.",
+  "author": "Keloran <keloran@bugfix.es>",
+  "license": "MIT"
+}
