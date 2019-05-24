@@ -212,8 +212,8 @@ buffer-from@^1.0.0:
   resolved "https://registry.yarnpkg.com/buffer-from/-/buffer-from-1.0.0.tgz#4cb8832d23612589b0406e9e2956c17f06fdf531"
 
 bugfixes@^1.5.0:
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/bugfixes/-/bugfixes-1.5.0.tgz#5d88da56b5dbf7b8a77c02abf40346ecf5cdcbb7"
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/bugfixes/-/bugfixes-1.7.0.tgz#92dbaa1bcc236f80b6da1831d6d40c0a89b2695a"
   dependencies:
     jsonwebtoken "^8.2.0"
     uuid "^3.2.1"
